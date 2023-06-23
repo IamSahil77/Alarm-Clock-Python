@@ -1,2 +1,2 @@
 # Alarm Clock 
-by using python GUI
+GUI alarm clock using python 
